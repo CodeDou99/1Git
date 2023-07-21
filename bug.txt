@@ -1,1 +1,1 @@
-the bug test normal merge conflict fixd;
+the bug fixd;
