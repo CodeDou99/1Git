@@ -1,2 +1,1 @@
-the bug not fixd;
-bug fixed
+the bug fixd;
